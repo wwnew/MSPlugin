@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.wwnew.msplugin.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.wwnew.msplugin.MyBundle
 
 class MyApplicationService {
 
